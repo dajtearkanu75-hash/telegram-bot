@@ -1,0 +1,61 @@
+{
+  "order_1762604700": {
+    "products": [
+      {
+        "name": "Balenciaga Runner 7.0 OK batch",
+        "price": "27 000₸",
+        "sizes": "35-46",
+        "code": "order1"
+      },
+      {
+        "name": "Balenciaga Runner 7.0 OK batch - 44 000₸",
+        "price": "44 000₸",
+        "sizes": "35-46",
+        "code": "order2"
+      }
+    ],
+    "customer_name": "наримсн",
+    "city": "есиль",
+    "size_comment": "42 размер 27см",
+    "user_id": 5001349759,
+    "username": "JND_esil",
+    "status": "pending",
+    "created_at": "2025-11-08T17:25:00.789190"
+  },
+  "order_1762604788": {
+    "products": [
+      {
+        "name": "Palm Angels (штаны)",
+        "price": "13 000₸",
+        "sizes": "S-2XL",
+        "code": "order50"
+      }
+    ],
+    "customer_name": "Нариман",
+    "city": "Есиль",
+    "size_comment": "S",
+    "user_id": 7854728091,
+    "username": "beccepgeH",
+    "status": "pending",
+    "created_at": "2025-11-08T17:26:28.654542"
+  },
+  "order_1762608559": {
+    "products": [
+      {
+        "name": "Maison Margiela replica",
+        "price": "21 000₸",
+        "sizes": "35-46",
+        "code": "order8"
+      }
+    ],
+    "customer_name": "джоха",
+    "city": "есиль",
+    "size_comment": "40, 25.5 см",
+    "user_id": 7854728091,
+    "username": "beccepgeH",
+    "status": "accepted",
+    "total_amount": 21000,
+    "created_at": "2025-11-08T18:29:19.108397",
+    "accepted_at": "2025-11-08T18:29:30.994732"
+  }
+}
